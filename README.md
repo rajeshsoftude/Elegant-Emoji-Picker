@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/10033440/226136503-79eb27fb-1254-45da-
 
 ## 🤔 About
 
-Elegant Emoji Picker is a configurable, simple to use, even more simple to impement, and beautiful (subjectively) emoji picker for iOS, iPadOS, and MacCatalyst ([iOS preview](https://github.com/Finalet/Elegant-Emoji-Picker/blob/dev/Documentation/iOS%20preview.MP4), [MacCatalyst preview](https://github.com/Finalet/Elegant-Emoji-Picker/blob/dev/Documentation/MacCatalyst%20preview.mov)).
+Elegant Emoji Picker is a configurable, simple to use, even more simple to impement, and beautiful (subjectively) emoji picker for iOS, iPadOS, and MacCatalyst ([iOS preview](https://github.com/rajeshsoftude/Elegant-Emoji-Picker/blob/dev/Documentation/iOS%20preview.MP4), [MacCatalyst preview](https://github.com/rajeshsoftude/Elegant-Emoji-Picker/blob/dev/Documentation/MacCatalyst%20preview.mov)).
 
 #### Features
 - Search
@@ -42,7 +42,7 @@ Elegant Emoji Picker is available via the [Swift Package Manager](https://www.sw
 With your Xcode project open, go to File → Add Packages, enter the address below into the search field and click "Add Package".
 
 ```
-https://github.com/Finalet/Elegant-Emoji-Picker
+https://github.com/rajeshsoftude/Elegant-Emoji-Picker
 ```
 
 Afterwards, import `ElegantEmojiPicker` module where you want to use it.
@@ -146,7 +146,7 @@ viewController.present(picker, animated: true)
 
 ## 📱 Sample Project
 
-Explore the [Demo project](https://github.com/Finalet/Elegant-Emoji-Picker/tree/main/Demo) for reference on what Elegant Emoji Picker is capable of or how to implement it. That said, the library is comically simple, so you should not have any trouble yourself. 
+Explore the [Demo project](https://github.com/rajeshsoftude/Elegant-Emoji-Picker/tree/main/Demo) for reference on what Elegant Emoji Picker is capable of or how to implement it. That said, the library is comically simple, so you should not have any trouble yourself. 
 
 If you want to see the picker live on the App Store, check out [Finale To Do](https://apps.apple.com/app/apple-store/id1622931101). This sentence was sponsored by #shamelessplug.
 
